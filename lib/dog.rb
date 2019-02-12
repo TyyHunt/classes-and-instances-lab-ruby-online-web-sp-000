@@ -1,6 +1,6 @@
 class Dog
 end
 
-Whiskey = Dog.new
-Baker = Dog.new
-Mia = Dog.new
+Whiskey = new.Dog
+Baker = new.Dog
+Mia = new.Dog
